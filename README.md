@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Jayesh Bhatia
 
-<!--
-**Jayesh-1727/Jayesh-1727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Learner | Building Unique Projects  
+💡 Learning by building real-world applications  
+🔥 Currently building: DevCollab & Emotion-Aware Journal  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+💻 Frontend  
+- HTML | CSS | JavaScript  
+- React.js  
+- Bootstrap  
+
+⚙️ Backend  
+- Node.js  
+- Express.js  
+- MongoDB  
+- PHP | MySQL  
+
+---
+
+## 📌 Current Goals
+- Master MERN Stack by building real products
+- Build 3 unique portfolio projects
+- Crack placements with strong practical skills
+
+---
+
+## 📊 GitHub Stats
+
+![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Let's Connect
+- LinkedIn: (add link)
+- Portfolio: (add later)
