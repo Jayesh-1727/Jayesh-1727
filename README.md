@@ -129,7 +129,7 @@ PHP & API Integration • Core PHP • Android Development
 ![](https://github-readme-stats.vercel.app/api?username=Jayesh-1727&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jayesh-1727&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-1727&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jayesh-1727&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
